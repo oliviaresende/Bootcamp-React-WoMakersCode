@@ -1,0 +1,35 @@
+form{
+  margin: 20px auto;
+}
+form label{
+  display: block;
+}
+.input-padrao{
+  display: block;
+  margin: 0 0 10px;
+}
+/*FormInput*/
+.form-input-container {
+  margin-bottom: 12px;
+}
+
+.input {
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 14px;
+  margin-bottom: 4px;
+  display: block;
+  padding: 4px;
+}
+.form{
+  padding: 6px;
+  width: 200px;
+  font-size: 14px;
+}
+button{
+  font-size: 16px;
+}
+/*FormPage*/
+.container {
+  padding: 8px;
+}
